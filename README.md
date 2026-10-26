@@ -13,6 +13,8 @@
 
 SO-101 键盘遥操作 · OBJ / STL / MJCF 多物体导入 · 可扩展场景
 
+<img src="assets/mujoco-cn-preview.png" alt="mujoco-cn 中文菜单和 SO-101 仿真界面" width="900">
+
 [简体中文](README.md) · [English](README.en.md)
 
 </div>

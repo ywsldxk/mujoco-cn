@@ -13,6 +13,8 @@
 
 SO-101 keyboard teleoperation · Multi-object OBJ / STL / MJCF import · Extensible scenes
 
+<img src="assets/mujoco-cn-preview.png" alt="mujoco-cn Chinese menus and SO-101 simulation" width="900">
+
 [简体中文](README.md) · [English](README.en.md)
 
 </div>
