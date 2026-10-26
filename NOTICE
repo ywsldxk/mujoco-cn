@@ -1,0 +1,11 @@
+mujoco-cn
+Copyright 2026 mujoco-cn contributors.
+
+This project uses the following separately licensed software and assets at runtime:
+
+- MuJoCo, Copyright 2021 DeepMind Technologies Limited, licensed under Apache-2.0.
+- The Robot Studio SO101 model from MuJoCo Menagerie, licensed under Apache-2.0.
+  The model is downloaded by the mujoco-menagerie Python package and is not bundled
+  in this repository.
+
+mujoco-cn is an independent community project and is not an official Google DeepMind product.

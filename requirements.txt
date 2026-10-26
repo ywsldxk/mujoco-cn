@@ -1,0 +1,4 @@
+mujoco==3.17.0
+mujoco-menagerie==2026.10.4
+pygame>=2.5,<3
+numpy>=1.24
